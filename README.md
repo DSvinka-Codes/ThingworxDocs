@@ -1,0 +1,2 @@
+# ThingworxDocs
+Шпаргалка по Thingworx
