@@ -34,31 +34,31 @@ description: Создание Mashup и его дальнейшее редакт
 
 Чтобы подключить и использовать встроенный или свой сервис используется вкладка Data в правой части экрана. Нажмите кнопку с иконкой плюсика чтобы добавить сервис.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt="" width="251"><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt="" width="251"><figcaption></figcaption></figure>
 
 У нас появится диалоговое окно. В поле `Entity Type` указываем `Things`\
 В поле Entity указываем вашу вещь и выбераем её, в моем случае это `Robot21`.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt="" width="290"><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt="" width="290"><figcaption></figcaption></figure>
 
 Затем вы можете подключить `GetProperties` и `SetProperties`. \
 Первый отвечает за получение Property из вещи, например для отображения значения в [LED Display](layout-mashup.md#led-display). \
 Второй отвечает за запись данных в Property вещи, например для записи значения полученного через [Numeric Entry](layout-mashup.md#numeric-entity).
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Не забудьте при добавлении `GetProperties` поставить галочку под пунктом<img src="../.gitbook/assets/image (36).png" alt="" data-size="line"> чтобы значения Property загружались при открытии страницы Mashup'а.
+Не забудьте при добавлении `GetProperties` поставить галочку под пунктом<img src="broken-reference" alt="" data-size="line"> чтобы значения Property загружались при открытии страницы Mashup'а.
 
 **Возьмите за правило. На всем сервисах которые начинаются с `Get` мы ставим галочку `Execute on Load`**
 {% endhint %}
 
 В этом же списке также можно смотреть и добавлять сервисы созданные вами.
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Если вы добавите новый Property и хотите чтобы он отобразился в `GetProperties`/`SetProperties` то нажмите кнопку ![](<../.gitbook/assets/image (26).png>) для обновления списков. Эта кнопка справа от кнопки плюсика (та что подключает сервисы в Mashup)
+Если вы добавите новый Property и хотите чтобы он отобразился в `GetProperties`/`SetProperties` то нажмите кнопку ![](broken-reference) для обновления списков. Эта кнопка справа от кнопки плюсика (та что подключает сервисы в Mashup)
 {% endhint %}
 
 ## Подключение сервисов к виджетам Mashup'а
@@ -69,7 +69,7 @@ description: Создание Mashup и его дальнейшее редакт
 
 Чтобы элемент Mashup'a имел доступ к данным из Property, возьмите Property мышкой и перенесите на нужный элемент, и в сплывающем меню выберите `Data`.
 
-<figure><img src="../.gitbook/assets/image (27).png" alt="" width="239"><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt="" width="239"><figcaption></figcaption></figure>
 
 Таким образом, например [LED Display](layout-mashup.md#led-display) будет отображать данные из этого Property, а в [Shape ](layout-mashup.md#shape)будет работать State Formatter.
 
@@ -87,7 +87,7 @@ description: Создание Mashup и его дальнейшее редакт
 
 Сначала нужно направить мышку на Кнопку/Shape в левый верхний угол, у вас откроется меню. Далее выполняет пункты с картинки:&#x20;
 
-<figure><img src="../.gitbook/assets/image (29).png" alt="" width="439"><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt="" width="439"><figcaption></figcaption></figure>
 
 Таким образом мы привязаываем кнопку так, чтобы при её нажатии вызывался `Move_Service`. Раскрывать сервис не требуется, просто зажмите мышку на `Clicked` и отпустите мышку на названии нужного сервиса.
 
@@ -100,7 +100,7 @@ description: Создание Mashup и его дальнейшее редакт
 
 Виджеты можно добавлять на Mashup с помощью левой менюшки
 
-<figure><img src="../.gitbook/assets/image (30).png" alt="" width="314"><figcaption><p>Просто перенесите мышкой элемент на Mashup и он появится</p></figcaption></figure>
+<figure><img src="broken-reference" alt="" width="314"><figcaption><p>Просто перенесите мышкой элемент на Mashup и он появится</p></figcaption></figure>
 
 ### Кнопка
 
@@ -112,11 +112,11 @@ description: Создание Mashup и его дальнейшее редакт
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ### LED Display
 
-<img src="../.gitbook/assets/image (33).png" alt="" data-size="line"> - Отображает цифры, например значение Property.&#x20;
+<img src="broken-reference" alt="" data-size="line"> - Отображает цифры, например значение Property.&#x20;
 
 ### Shape
 

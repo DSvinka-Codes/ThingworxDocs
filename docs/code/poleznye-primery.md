@@ -6,7 +6,7 @@
 
 Для начала вам потребуется в светофоре [создать новый сервис](../thingworx-web/veshi.md#sozdanie-servisa) и сделать его Async (асинхронным). &#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="234"><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt="" width="234"><figcaption></figcaption></figure>
 
 Таким образом при вызове этого сервиса из другого сервиса, этот сервис будет выполнятся в  фоне. То есть если в сервисе InOutService мы вызовем сервис BlinkLightService, то InOutService не будет ждать пока BlinkLightService завершит работу.\
 Это позволит светофору мигать даже когда робот выполняет какой то код.
