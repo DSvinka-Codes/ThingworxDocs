@@ -1,6 +1,6 @@
 ---
 description: Типы данных в Javascript в контексте Thingworx
-cover: ../../.gitbook/assets/javascript-var-and-types.png
+cover: broken-reference
 coverY: 18
 ---
 

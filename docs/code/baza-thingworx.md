@@ -1,6 +1,6 @@
 ---
 description: Как подключится, Какие названия вещей ставить
-cover: ../.gitbook/assets/1918192.jpg
+cover: broken-reference
 coverY: 22.604224058769514
 ---
 

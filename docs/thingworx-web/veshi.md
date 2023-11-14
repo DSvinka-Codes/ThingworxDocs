@@ -18,7 +18,7 @@ description: Роботы, Светофоры, Пульты, Сканеры
 
 Здесь по мимо стандартных полей есть ещё поле <mark style="color:yellow;">**Base Thing Template**</mark>, на всех вещах в этом поле выбераем **GenericThing**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 На этом создание вещи закончено.
 

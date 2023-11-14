@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/983506bddc8f8a762a4869cb54b92026.jpg
+cover: broken-reference
 coverY: 16.416149068322984
 layout:
   cover:

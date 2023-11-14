@@ -1,6 +1,6 @@
 ---
 description: То что пишется в фигурных скобках, их ещё словарём называют
-cover: ../../.gitbook/assets/academy_3.png
+cover: broken-reference
 coverY: 9
 layout:
   cover:
