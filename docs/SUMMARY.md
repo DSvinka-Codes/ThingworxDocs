@@ -2,7 +2,7 @@
 
 * [👋 НАЧАЛО](README.md)
 * [🏎 Соревнования](contest.md)
-* [📋 Зачёт](zachyot.md)
+* [📋 Проектирование Системы Приложения](proektirovanie-sistemy-prilozheniya.md)
 
 ## 🖥 -- Thingworx Web
 
