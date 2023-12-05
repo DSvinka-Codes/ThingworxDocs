@@ -14,7 +14,7 @@ description: Как создавать проекты/вещи/и т.п в Thing
 
 Создание чего либо происходит через кнопку New c логотипом плюсика, в левом меню.
 
-<figure><img src="broken-reference" alt="" width="278"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Menu_Button_Create.png" alt="" width="329"><figcaption></figcaption></figure>
 
 В этом меню вы можете создать любой объект какой хотите.
 

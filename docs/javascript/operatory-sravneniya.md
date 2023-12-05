@@ -1,6 +1,6 @@
 ---
-cover: broken-reference
-coverY: 19
+cover: ../.gitbook/assets/Banner_LogicOpertor.jpg
+coverY: 0
 ---
 
 # Операторы Сравнения

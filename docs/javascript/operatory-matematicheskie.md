@@ -1,6 +1,6 @@
 ---
-cover: broken-reference
-coverY: 16.416149068322984
+cover: ../.gitbook/assets/Banner_LogicOpertor.jpg
+coverY: 0
 layout:
   cover:
     visible: true

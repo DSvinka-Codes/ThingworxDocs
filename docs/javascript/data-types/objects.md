@@ -1,7 +1,7 @@
 ---
 description: То что пишется в фигурных скобках, их ещё словарём называют
-cover: broken-reference
-coverY: 9
+cover: ../../.gitbook/assets/Banner_Object.png
+coverY: 0
 layout:
   cover:
     visible: true

@@ -1,7 +1,7 @@
 ---
 description: Типы данных в Javascript в контексте Thingworx
-cover: broken-reference
-coverY: 18
+cover: ../../.gitbook/assets/Banner_Types.png
+coverY: -36
 ---
 
 # Типы Данных

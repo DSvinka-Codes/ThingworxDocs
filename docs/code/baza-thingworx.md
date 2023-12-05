@@ -1,7 +1,7 @@
 ---
 description: Как подключится, Какие названия вещей ставить
-cover: broken-reference
-coverY: 22.604224058769514
+cover: ../.gitbook/assets/Banner_Thingworx.jpg
+coverY: 0
 ---
 
 # ℹ База Thingworx

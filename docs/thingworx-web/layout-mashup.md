@@ -16,15 +16,15 @@ description: Создание Mashup и его дальнейшее редакт
 
 Когда вы создаете Mashup **(о том как создавать объекты, описано** [**здесь**](sozdanie-obektov.md)**)** у вас появляется диалоговое окно, где просят выбрать тип Mashup'а. Для простоты работы мы используем `Static (Legacy)`
 
-<figure><img src="broken-reference" alt="" width="359"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Menu_Mashup_Create.png" alt="" width="359"><figcaption></figcaption></figure>
 
 Ставим любое удобное название, если надо описание, логотип. Выбираем проект, к которому принадлежит Mashup и всё, Mashup готов.
 
 Для вёрстки Mashup (добавление и редактирование элементов) нужно перейти во вкладку Design
 
-<img src="broken-reference" alt="" data-size="original">
+<img src="../.gitbook/assets/Button_Design.png" alt="" data-size="original">
 
-Также если мы хотим посмотреть что у нас получается в итоге, можно нажать на кнопку ![](broken-reference) она находится справа от названия вашего Mashup'a
+Также если мы хотим посмотреть что у нас получается в итоге, можно нажать на кнопку ![](../.gitbook/assets/Button\_ViewMashup.png) она находится справа от названия вашего Mashup'a
 
 ## Подключение сервисов вещей к Mashup
 
@@ -34,31 +34,31 @@ description: Создание Mashup и его дальнейшее редакт
 
 Чтобы подключить и использовать встроенный или свой сервис используется вкладка Data в правой части экрана. Нажмите кнопку с иконкой плюсика чтобы добавить сервис.
 
-<figure><img src="broken-reference" alt="" width="251"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Menu_Mashup_Service.png" alt="" width="251"><figcaption></figcaption></figure>
 
 У нас появится диалоговое окно. В поле `Entity Type` указываем `Things`\
 В поле Entity указываем вашу вещь и выбераем её, в моем случае это `Robot21`.
 
-<figure><img src="broken-reference" alt="" width="290"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Menu_Mashup_Service_ChoiceEntity.png" alt="" width="290"><figcaption></figcaption></figure>
 
 Затем вы можете подключить `GetProperties` и `SetProperties`. \
 Первый отвечает за получение Property из вещи, например для отображения значения в [LED Display](layout-mashup.md#led-display). \
 Второй отвечает за запись данных в Property вещи, например для записи значения полученного через [Numeric Entry](layout-mashup.md#numeric-entity).
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Menu_Mashup_Service_GetSetProperties.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Не забудьте при добавлении `GetProperties` поставить галочку под пунктом<img src="broken-reference" alt="" data-size="line"> чтобы значения Property загружались при открытии страницы Mashup'а.
+Не забудьте при добавлении `GetProperties` поставить галочку под пунктом<img src="../.gitbook/assets/ExecuteOnLoad_Label.png" alt="" data-size="line"> чтобы значения Property загружались при открытии страницы Mashup'а.
 
 **Возьмите за правило. На всем сервисах которые начинаются с `Get` мы ставим галочку `Execute on Load`**
 {% endhint %}
 
 В этом же списке также можно смотреть и добавлять сервисы созданные вами.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Menu_Mashup_Service_Choice.png" alt="" width="339"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Если вы добавите новый Property и хотите чтобы он отобразился в `GetProperties`/`SetProperties` то нажмите кнопку ![](broken-reference) для обновления списков. Эта кнопка справа от кнопки плюсика (та что подключает сервисы в Mashup)
+Если вы добавите новый Property и хотите чтобы он отобразился в `GetProperties`/`SetProperties` то нажмите кнопку ![](../.gitbook/assets/Button\_Reload.png) для обновления списков. Эта кнопка справа от кнопки плюсика (та что подключает сервисы в Mashup)
 {% endhint %}
 
 ## Подключение сервисов к виджетам Mashup'а

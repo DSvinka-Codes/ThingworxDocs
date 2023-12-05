@@ -18,13 +18,13 @@ description: Роботы, Светофоры, Пульты, Сканеры
 
 Здесь по мимо стандартных полей есть ещё поле <mark style="color:yellow;">**Base Thing Template**</mark>, на всех вещах в этом поле выбераем **GenericThing**
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Menu_Thing_Type.png" alt=""><figcaption></figcaption></figure>
 
 На этом создание вещи закончено.
 
 ## Создание Property
 
-На странице [#rabota-s-properties](../code/property-i-parametry.md#rabota-s-properties "mention") мы обсуждали как работать с Properties из кода, самое время их начать создавать. Для создания нам нужно зайти в нашу вещь, во вкладку ![](broken-reference) там есть кнопка ![](broken-reference) по нажатии на которую, справа появится окно создания Property.
+На странице [#rabota-s-properties](../code/property-i-parametry.md#rabota-s-properties "mention") мы обсуждали как работать с Properties из кода, самое время их начать создавать. Для создания нам нужно зайти в нашу вещь, во вкладку ![](../.gitbook/assets/Button\_PropertiesAndAlerts.png) там есть кнопка ![](../.gitbook/assets/Button\_Add.png) по нажатии на которую, справа появится окно создания Property.
 
 * Для начала укажем название. \
   Во первых название не должно пересекаться с [параметрами мониторинга и управления вещей](../code/parametry-veshei/). \
@@ -37,13 +37,13 @@ description: Роботы, Светофоры, Пульты, Сканеры
 * Дальше у нас есть настройка `Persistent`, весьма специфичный параметр. Если его включить то Propery не будет сбрасываться при перезагрузки вещи или системы.
 * Настройка `Read Only` позволяет запретить записывать данные в Property, полезно когда нужно создать переменную с значением которое не следует изменять.
 
-<figure><img src="broken-reference" alt="" width="369"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Menu_PropertiesAndAlerts_Create.png" alt="" width="369"><figcaption></figcaption></figure>
 
 После произведения настройки, у нас есть 3 кнопки в верхнем правом углу, галка с плюсом, галка, и знак запрета. Галка с плюсом сохраняет изменения и позволяет сразу же создать ещё один Property. Обычная галка тоже сохраняет изменения, но закрывает меню редактирование Property. А знак запрета просто отменяет изменения.
 
 ## Создание Сервиса
 
-Для этого перейдём во вкладку ![](broken-reference), там нажимаем на кнопку ![](broken-reference) и мы попадаем в наш сервис.
+Для этого перейдём во вкладку ![](../.gitbook/assets/Button\_Services.png), там нажимаем на кнопку ![](../.gitbook/assets/Button\_Add.png) и мы попадаем в наш сервис.
 
 Слева указываем название сервиса, по желанию описание.
 
@@ -58,11 +58,11 @@ description: Роботы, Светофоры, Пульты, Сканеры
 
 Затем необходимо в `Input` добавить названия переменных мониторинга которые мы хотим использовать, например как на скрине ниже
 
-![](broken-reference)
+![](../.gitbook/assets/Menu\_Service\_Inputs.png)
 
 А если вы хотите возвращать значения обратно в робота, то необходимо в `Output` указать `JSON`.
 
-![](broken-reference)
+![](../.gitbook/assets/Menu\_Service\_Result.png)
 {% endhint %}
 
 В сервисах мы можем писать код на Javascript.

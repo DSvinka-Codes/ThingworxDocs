@@ -3,6 +3,7 @@
 * [👋 НАЧАЛО](README.md)
 * [🏎 Соревнования](contest.md)
 * [📋 Проектирование Системы Приложения](proektirovanie-sistemy-prilozheniya.md)
+* [Алгоритм работы автоматической сборки с двумя роботами](algoritm-raboty-avtomaticheskoi-sborki-s-dvumya-robotami.md)
 
 ## 🖥 -- Thingworx Web
 
