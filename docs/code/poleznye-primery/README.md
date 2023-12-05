@@ -2,9 +2,9 @@
 
 ## Мигающий светофор
 
-В [contest.md](../contest.md "mention") описаны задания на мигающий светофор. Этот случай мы и разберём.
+В [contest.md](../../contest.md "mention") описаны задания на мигающий светофор. Этот случай мы и разберём.
 
-Для начала вам потребуется в светофоре [создать новый сервис](../thingworx-web/veshi.md#sozdanie-servisa) и сделать его Async (асинхронным). &#x20;
+Для начала вам потребуется в светофоре [создать новый сервис](../../thingworx-web/veshi.md#sozdanie-servisa) и сделать его Async (асинхронным). &#x20;
 
 <figure><img src="broken-reference" alt="" width="234"><figcaption></figcaption></figure>
 

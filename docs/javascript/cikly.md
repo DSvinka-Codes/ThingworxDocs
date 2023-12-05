@@ -270,7 +270,7 @@ me.runEnded = true;
 Но в Thingworx циклы весьма опасная вещь. \
 И вам нужно тщательно тестировать код с циклами чтобы убедится что они не сломают вам код.
 
-<mark style="color:yellow;">**Реальные и полезные примеры с циклами в Thingworx описаны в**</mark> [poleznye-primery.md](../code/poleznye-primery.md "mention")&#x20;
+<mark style="color:yellow;">**Реальные и полезные примеры с циклами в Thingworx описаны в**</mark> [poleznye-primery](../code/poleznye-primery/ "mention")&#x20;
 {% endhint %}
 
 ## Переход к следующей итерации: continue
