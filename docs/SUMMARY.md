@@ -24,8 +24,8 @@
 * [Таблицы](code/tablicy.md)
 * [Стримы](code/strimy.md)
 * [Property и Параметры](code/property-i-parametry.md)
-* [Полезные примеры](code/poleznye-primery/README.md)
-  * [Алгоритм работы автоматической сборки с двумя роботами](code/poleznye-primery/algoritm-raboty-avtomaticheskoi-sborki-s-dvumya-robotami.md)
+* [Полезные примеры](code/poleznye-primery.md)
+  * [Алгоритм работы автоматической сборки с двумя роботами](algoritm-raboty-avtomaticheskoi-sborki-s-dvumya-robotami.md)
   * [Проектирование диограмм классов](code/poleznye-primery/proektirovanie-diogramm-klassov.md)
 
 ## 💻 -- JavaScript
