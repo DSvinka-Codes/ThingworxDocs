@@ -27,6 +27,7 @@
 * [Полезные примеры](code/poleznye-primery.md)
   * [Алгоритм работы автоматической сборки с двумя роботами](algoritm-raboty-avtomaticheskoi-sborki-s-dvumya-robotami.md)
   * [Проектирование диограмм классов](code/poleznye-primery/proektirovanie-diogramm-klassov.md)
+  * [Мигающий светофор](code/poleznye-primery/migayushii-svetofor.md)
 
 ## 💻 -- JavaScript
 

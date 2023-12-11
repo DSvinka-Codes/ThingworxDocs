@@ -63,5 +63,6 @@ pause(2000)
 ```
 
 {% hint style="danger" %}
-Внутри [циклов ](../javascript/cikly.md)функция`pause()`не работает!
+Внутри [циклов ](../javascript/cikly.md)функция`pause()` не работает! НО работает только циклах [`while`](../javascript/cikly.md#cikl-while)`!!`!
 {% endhint %}
+

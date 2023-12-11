@@ -69,7 +69,7 @@ description: Создание Mashup и его дальнейшее редакт
 
 Чтобы элемент Mashup'a имел доступ к данным из Property, возьмите Property мышкой и перенесите на нужный элемент, и в сплывающем меню выберите `Data`.
 
-<figure><img src="broken-reference" alt="" width="239"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Таким образом, например [LED Display](layout-mashup.md#led-display) будет отображать данные из этого Property, а в [Shape ](layout-mashup.md#shape)будет работать State Formatter.
 
@@ -87,7 +87,7 @@ description: Создание Mashup и его дальнейшее редакт
 
 Сначала нужно направить мышку на Кнопку/Shape в левый верхний угол, у вас откроется меню. Далее выполняет пункты с картинки:&#x20;
 
-<figure><img src="broken-reference" alt="" width="439"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Menu_Mashup_Button_CallService.png" alt=""><figcaption></figcaption></figure>
 
 Таким образом мы привязаываем кнопку так, чтобы при её нажатии вызывался `Move_Service`. Раскрывать сервис не требуется, просто зажмите мышку на `Clicked` и отпустите мышку на названии нужного сервиса.
 
@@ -100,23 +100,21 @@ description: Создание Mashup и его дальнейшее редакт
 
 Виджеты можно добавлять на Mashup с помощью левой менюшки
 
-<figure><img src="broken-reference" alt="" width="314"><figcaption><p>Просто перенесите мышкой элемент на Mashup и он появится</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Menu_Mashup_Elements.png" alt=""><figcaption><p>Просто перенесите мышкой элемент на Mashup и он появится</p></figcaption></figure>
 
 ### Кнопка
 
-![](broken-reference) - Обыкновенная кнопка. Кнопки могут запускать сервисы, для этого используется ивент Clicked. Для того чтобы получить к нему доступ, нажмите на стрелочку в верхнем левом углу кнопки (там, куда направлена красная стрелка на скриншоте ниже) и перетащите мышкой Clicked на сервис который хотите вызвать.&#x20;
+<img src="../.gitbook/assets/Element_Button_Primary.png" alt="" data-size="line"> - Обыкновенная кнопка. Кнопки могут запускать сервисы, для этого используется ивент Clicked. Для того чтобы получить к нему доступ, нажмите на стрелочку в верхнем левом углу кнопки (там, куда направлена красная стрелка на скриншоте ниже) и перетащите мышкой Clicked на сервис который хотите вызвать.&#x20;
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Меню где можно взять мышкой ивент Clicked <br>и перетащить на любой сервис для его запуска при нажатии</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Menu_Mashup_Button_CallService.png" alt=""><figcaption><p>Меню где можно взять мышкой ивент Clicked <br>и перетащить на любой сервис для его запуска при нажатии</p></figcaption></figure>
 
 Во вкладке Properties можно менять текст кнопки (с `Button` на что-то другое) и расположение текста
 
-&#x20;
-
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="351"><figcaption></figcaption></figure>
 
 ### LED Display
 
-<img src="broken-reference" alt="" data-size="line"> - Отображает цифры, например значение Property.&#x20;
+<img src="../.gitbook/assets/Elemenet_LedDisplay.png" alt="" data-size="line"> - Отображает цифры, например значение Property.&#x20;
 
 ### Shape
 
