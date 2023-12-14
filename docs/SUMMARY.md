@@ -3,7 +3,7 @@
 * [👋 НАЧАЛО](README.md)
 * [🏎 Соревнования](contest.md)
 * [📋 Проектирование Системы Приложения](proektirovanie-sistemy-prilozheniya.md)
-* [Проектирование взаимодействий элементов приложени](proektirovanie-vzaimodeistvii-elementov-prilozheni.md)
+* [📋 Проектирование взаимодействий элементов приложени](proektirovanie-vzaimodeistvii-elementov-prilozheni.md)
 
 ## 🖥 -- Thingworx Web
 
