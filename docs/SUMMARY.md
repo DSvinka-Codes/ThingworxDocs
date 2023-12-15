@@ -1,9 +1,13 @@
 # Table of contents
 
 * [👋 НАЧАЛО](README.md)
-* [🏎 Соревнования](contest.md)
-* [📋 Проектирование Системы Приложения](proektirovanie-sistemy-prilozheniya.md)
-* [📋 Проектирование взаимодействий элементов приложени](proektirovanie-vzaimodeistvii-elementov-prilozheni.md)
+
+## 📝 -- Лекции
+
+* [Соревнования](lekcii/contest.md)
+* [Проектирование Системы Приложения](lekcii/proektirovanie-sistemy-prilozheniya.md)
+* [Проектирование взаимодействий элементов приложени](lekcii/proektirovanie-vzaimodeistvii-elementov-prilozheni.md)
+* [Проектирование диограмм классов](lekcii/proektirovanie-diogramm-klassov.md)
 
 ## 🖥 -- Thingworx Web
 
@@ -27,7 +31,6 @@
 * [Property и Параметры](code/property-i-parametry.md)
 * [Полезные примеры](code/poleznye-primery.md)
   * [Алгоритм работы автоматической сборки с двумя роботами](algoritm-raboty-avtomaticheskoi-sborki-s-dvumya-robotami.md)
-  * [Проектирование диограмм классов](code/poleznye-primery/proektirovanie-diogramm-klassov.md)
   * [Мигающий светофор](code/poleznye-primery/migayushii-svetofor.md)
 
 ## 💻 -- JavaScript
