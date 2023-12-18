@@ -33,3 +33,13 @@
 ***
 
 <figure><img src="../.gitbook/assets/Untitled Diagram.drawio (2).png" alt=""><figcaption></figcaption></figure>
+
+В случае, если необходимо отразить **роль объектов в системе**, подчеркнув, например, что сообщения приходят от граничных и внешних объектов системы, используются следующие специальные обозначения объектов
+
+Actor - действущее лицо\
+Boundary Object - граничный объект\
+Control Object - управляющий объект, процесс
+
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+
+<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
